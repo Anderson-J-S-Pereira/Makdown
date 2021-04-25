@@ -1,2 +1,2 @@
 # Markdown
- Treino e pequeno turorial de Markdown
+ Treino e pequeno tutorial de Markdown
