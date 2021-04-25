@@ -1,0 +1,59 @@
+# A Hastag é usada para demonstrar um título.
+## Subtítulo
+### Título de nível 3
+
+_Itálico_
+__Negrito__
+
+~Itálico~
+~~Negrito~~
+
+*Itálico*
+**Negrito**
+
+---
+***
+Esses três traçados ou asteríscos servem para criar uma linha horizontal.
+
+É possível misturar os códigos de marcação.
+
+Além disso tem a lista numerada
+
+1. Teste
+1. Continuação
+1. É o que?
+    2. É o que quê?
+
+Lista demarcada:
+
+* Teste
+* Teste
+    * Teste
+- Teste
+
+Lista de tarefas
+
+- [ ] Testando a lista de tarefas
+- [x] Testando de novo
+
+[Teste de link](https://www.google.com.br/)
+
+Tabelas:
+
+Nome | Idade
+---|---|---
+Anderson | 25 
+
+Podemos demarcar também algum tipo de código pelo Markdown. Exemplo: `input` do Python
+
+```
+nome = str(int(input('Digite aqui seu nome: ')))
+```
+Emoji... interessante:
+
+:vulcan_salute:
+
+:+1:
+
+:hand:
+
